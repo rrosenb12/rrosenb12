@@ -1,5 +1,4 @@
-<h1> ...how'd you end up here??? <h1>
-<h3> ...either way, welcome! I'm Rebecca, a women's-gender-sexuality-studies-scholar-turned-full-stack-developer. Wondering why I switched tracks? Email me!</h3>
+<h1> ...how'd you end up here??? <h1><h3> ...either way, welcome! I'm Rebecca, a women's-gender-sexuality-studies-scholar-turned-full-stack-developer. Wondering why I switched tracks? Email me!</h3>
 <h4 align="center">🤩😏🥰Personal projects🤩😏🥰</h4>
 <p>When I'm programming for myself, I like to consider what would be most useful in my life. While I was still in heavy-duty quarantine and logging 900+ hours (no regrets) of <em>Animal Crossing: New Horizons</em>, I wanted to make myself a <a href="https://github.com/rrosenb12/frontend_mod5_project">tool</a> to <a href="https://github.com/rrosenb12/backend_mod5_project">track my progress</a>. Now, I'm working on a <a href="https://github.com/rrosenb12/meal_planner_backend">planner</a> for <a href="https://github.com/rrosenb12/meal_planner_frontend">weekly meals</a>.</p>
 <h4 align="center">😤👌😎Professional projects😤👌😎</h4>
