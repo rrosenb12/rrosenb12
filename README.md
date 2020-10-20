@@ -1,4 +1,11 @@
-### Hi there 👋
+<h1> ...how'd you end up here??? <h1>
+<h3> ...either way, welcome! I'm Rebecca, a women's-gender-sexuality-studies-scholar-turned-full-stack-developer. Wondering why I switched tracks? Email me!</h3>
+<h4 align="center">🤩😏🥰Personal projects🤩😏🥰</h4>
+<p>When I'm programming for myself, I like to consider what would be most useful in my life. While I was still in heavy-duty quarantine and logging 900+ hours (no regrets) of <em>Animal Crossing: New Horizons</em>, I wanted to make myself a <a href="https://github.com/rrosenb12/frontend_mod5_project">tool</a> to <a href="https://github.com/rrosenb12/backend_mod5_project">track my progress</a>. Now, I'm working on a <a href="https://github.com/rrosenb12/meal_planner_backend">planner</a> for <a href="https://github.com/rrosenb12/meal_planner_frontend">weekly meals</a>.</p>
+<h4 align="center">😤👌😎Professional projects😤👌😎</h4>
+<p>When I'm programming for others, I like to keep the <a href="https://github.com/rrosenb12/audrey-lee">design</a> clean and simple, while keeping responsivity and accessibility in mind. Did you know, styling your website to be more accesible helps with Search Engine Optimization?</p>
+<h4 align="center">🥺🤫👀Want to connect?🥺🤫👀</h4>
+	<p>Feel free to reach out! I love talking to new people and learning more about them. My email is rebecca.ap.rosenberg@gmail.com (would you believe how many Rebecca Rosenbergs there are in the world? Hence the extremely long email address).</p>
 
 <!--
 **rrosenb12/rrosenb12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
