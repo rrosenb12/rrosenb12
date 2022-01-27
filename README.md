@@ -1,6 +1,6 @@
 <h1>Hey!<h1><h3>I'm Rebecca (she/her)</h3>
 <h4 align="center">🤩 😏 🥰Personal projects🤩 😏 🥰</h4>
-<p>When I'm programming for myself, I like to consider what would be most useful in my life. While I was still in heavy-duty quarantine and logging 900+ hours (no regrets) of <em>Animal Crossing: New Horizons</em>, I wanted to make myself a <a href="https://github.com/rrosenb12/frontend_mod5_project">tool</a> to <a href="https://github.com/rrosenb12/backend_mod5_project">track my progress</a>. Now, I'm working on a <a href="https://github.com/rrosenb12/meal_planner_backend">planner</a> for <a href="https://github.com/rrosenb12/meal_planner_frontend">weekly meals</a>.</p>
+<p>When I'm programming for myself, I like to consider what would be most useful in my life. While I was still in heavy-duty quarantine and logging 900+ hours (no regrets) of <em>Animal Crossing: New Horizons</em>, I wanted to make myself a <a href="https://github.com/rrosenb12/frontend_mod5_project">tool</a> to <a href="https://github.com/rrosenb12/backend_mod5_project">track my progress</a>.
 <h4 align="center">😤 👌 😎Professional projects😤 👌 😎</h4>
 <p>When I'm programming for others, I like to keep the <a href="https://github.com/rrosenb12/audrey-lee">design</a> clean and simple, while keeping responsivity and accessibility in mind. Did you know, styling your website to be more accesible helps with Search Engine Optimization?</p>
 <h4 align="center">🥺 🤫 👀Want to connect?🥺 🤫 👀</h4>
